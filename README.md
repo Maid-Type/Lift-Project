@@ -1,17 +1,9 @@
-<div id="top"></div>
-
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
-
-<!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/your-repo/lift-program">
-    <img src="./img/logo.png" alt="Logo" height="80"  >
-  </a>
   <h1 align="center">Program Lift</h1>
 
   <p align="center">
-    <a href="https://github.com/your-repo/lift-program">Pogledaj Repozitorij</a>
+    <a href="https://github.com/Maid-Type/lift-project">Pogledaj Repozitorij</a>
   </p>
 </div>
 
