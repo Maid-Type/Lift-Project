@@ -1,10 +1,6 @@
 <br />
 <div align="center">
   <h1 align="center">Program Lift</h1>
-
-  <p align="center">
-    <a href="https://github.com/Maid-Type/lift-project">Pogledaj Repozitorij</a>
-  </p>
 </div>
 
 <!-- ABOUT THE PROJECT -->
